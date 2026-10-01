@@ -1,0 +1,6 @@
+{
+  "name": "Iván Jaime - História, Carreira & Scout Interativo",
+  "description": "Enciclopédia detalhada e experiência interativa sobre a história, carreira, momentos icónicos, estatísticas e análise tática de Iván Jaime (FC Porto, FC Famalicão, Málaga CF).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
